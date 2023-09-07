@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+.wrapper {
+    width: 400px;
+}
+
+img {
+    margin: 30px 0 30px 140px;
+}
+
+.check-box {
+    margin: 0 0 0 100px;
+}
+
+a {
+    text-decoration: none !important;
+    margin: 0 0 0 120px;
+}
